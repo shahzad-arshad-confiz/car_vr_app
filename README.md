@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. `git clone
+1. `git clone`
 3. `npm install`
 4. `npx pod-install` (iOS)
 5. `npx react-native run-android` or `npx react-native run-ios`
